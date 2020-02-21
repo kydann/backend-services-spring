@@ -1,0 +1,10 @@
+com/sinfloo/backend/Servicios/ProductService.class
+com/sinfloo/backend/Servicios/ProductServiceImp.class
+com/sinfloo/backend/Servicios/InspeccionServiceImp.class
+com/sinfloo/backend/Servicios/InspeccionService.class
+com/sinfloo/backend/Ejemplo01Application.class
+com/sinfloo/backend/Repositorio/ProductRepositorio.class
+com/sinfloo/backend/Modelos/Producto.class
+com/sinfloo/backend/Repositorio/InspeccionRepositorio.class
+com/sinfloo/backend/Modelos/Inspeccion.class
+com/sinfloo/backend/Controlador/Controlador.class
